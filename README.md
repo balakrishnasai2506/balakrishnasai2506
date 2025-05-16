@@ -59,7 +59,7 @@ I'm excited to bring my technical expertise, strong verification knowledge, and 
 
 ---
 
-### 📬 Let’s Connect
+### Let’s Connect
 
 - [LinkedIn – Bala Krishna Sai Gaddi](https://www.linkedin.com/in/bala-krishna-sai-gaddi/) 
 - gaddibalakrishnasai2506@gmail.com 
