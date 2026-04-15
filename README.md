@@ -11,7 +11,7 @@
 
 I am a trained VLSI Design and Verification fresher. I have a solid understanding of industry-standard verification methodologies like UVM, Constraint Random Coverage Driven Verification, and Assertion-Based Verification (SVA). I am experienced in working with HDL and HVL, specifically Verilog and SystemVerilog.
 
-I have hands-on experience with protocols like AHB and APB. My skillset also includes working with various EDA tools, such as Synopsys-VCS, Mentor Graphics–Questasim, Xilinx-ISE, Synopsys Design Compiler, and VC Spyglass Lint.
+I have hands-on experience with protocols like AHB, APB and SPI. My skillset also includes working with various EDA tools, such as Synopsys-VCS, Mentor Graphics–Questasim, Xilinx-ISE, Synopsys Design Compiler, and VC Spyglass Lint.
 
 ---
 
