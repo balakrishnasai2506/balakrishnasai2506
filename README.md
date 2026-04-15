@@ -24,7 +24,7 @@ I have hands-on experience with protocols like AHB and APB. My skillset also inc
 `UVM` `Constraint Random Coverage Driven Verification` `SVA`
 
 **Protocols:**  
-`AHB` `APB`
+`AHB` `APB` `SPI `
 
 **EDA Tools:**  
 `Synopsys-VCS` `Mentor Graphics–Questasim` `Xilinx-ISE` `Synopsys Design Compiler` `VC Spyglass Lint`
